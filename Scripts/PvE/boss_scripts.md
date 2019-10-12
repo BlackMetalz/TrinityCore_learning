@@ -5,3 +5,10 @@
 ```
 
 This prevent player pull boss too far away from Boss fight location. There is some exploit if we don't set this value
+
+Arty said: 
+```
+nope cause that is hack xd
+u use sniff values for that, and in boss script u check distance in update
+latest TC has bossbounderies to auto reset if out of room
+```
