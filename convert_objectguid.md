@@ -7,4 +7,8 @@ testinitvarGUID = 0 ->  testinitvarGUID = ObjectGuid::Empty or testinitvarGUID.c
 GetData64 -> GetObjectGuid
 GetUint64Value -> GetGuidValue
 GUID_LOPART(guid) = guid.GetCounter()
+
+RegisterCreatureAI ->    BossAI / ScriptedAI
+RegisterSpellScript -> SpellScript
+RegisterAuraScript -> AuraScript
 ```
