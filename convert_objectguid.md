@@ -3,12 +3,27 @@
 
 ```
 uint64 -> ObjectGuid
-testinitvarGUID = 0 ->  testinitvarGUID = ObjectGuid::Empty or testinitvarGUID.clear()
+ObjectGuid::Empty
+
 GetData64 -> GetObjectGuid
-GetUint64Value -> GetGuidValue
-GUID_LOPART(guid) = guid.GetCounter()
+
+UNIT_NPC_FLAGS -> UNIT_FIELD_NPC_FLAGS
+UNIT_FIELD_FLAGS_2 -> UNIT_FIELD_FLAGS2
+RegisterCreatureAI(npc_skyfall_star);
+
+if it was throwing error in scripts project
+it shd be using GetGuidValue
+like for example PLAYER_FIELD_FARSIGHT
+or UNIT_FIELD_TARGET
+
+those are now guid fields
+
+GetUInt64Value -> GetGuidValue
 
 RegisterCreatureAI ->    BossAI / ScriptedAI
+
 RegisterSpellScript -> SpellScript
 RegisterAuraScript -> AuraScript
+
+
 ```
