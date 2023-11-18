@@ -1,0 +1,25 @@
+- Razorfen Kraul:  `1722 1356 200 47` 
+- Shadowfang keep: `895 1995 200 33`
+- Emerald Forest:  `2733 -2600 200 169` 
+- The Verdant fields: `-1817 -951 200 169`
+- Zul gurub 1: `-10955 -2742 200 309`
+- Zulgurub_36_53: `-11705 -2375 200 309`
+- Zulgurub_35_52  `-11130 -2026 200 309`
+- HellfireRampart_29_35 `-1765 1270 200 543`
+- HillsbradPast_29_26 `3166 1339 200 560`
+- DesolaceBomb_30_29 `1314 1704 200 731`
+- RedgridgeOrcBomb_37_49 `-9394 -3025 200 751`
+- RedridgeBridgePhaseOne_36_49 ` -9519 -2248 200 752`
+- TwilightHighlandsDragonmawPhase_43_39 `-3878 -6273 200 736`
+- UldumPhaseOasis_32_52 `-10846 -144 200 746`
+- UldumPhaseWreckedCamp_31_49 `-9082 75 200 764`
+- AllianceBeachDailyArea_33_33 `-913 -903 200 1062`
+- BlackOxTempleScenario_23_28 `2052 4608 200 1049`
+- HordeBeachDailyArea_28_35 `-1915 1664 200 1061`
+- JadeForestHordeStartingArea_33_26 `2804 -750 200 1076`
+- JainaDalaranScenario_30_21 `5583 441 200 1106`
+- MonkAreaScenario_29_25 `3845 1954 931 1014`
+- PetBattleJadeForest_31_27  `2375 222 200 1032`
+- WarlockArea_30_26 `3072 885 200 1107`
+- DefenseOfTheAleHouseBG_30_29 `1302 562 200 1101`
+- TheramoreScenarioPhase_39_38 `-3317 -3984 200 1075`
